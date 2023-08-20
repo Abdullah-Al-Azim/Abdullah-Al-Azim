@@ -1,81 +1,67 @@
 <h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Abdullah Al Azim</h1>
 
 <p align="center">
-  <a href="[https://stackoverflow.com/users/14932795/abdullah-al-azim]">
-    <img alt="Stack Overflow Reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
+  <a href="https://github.com/Abdullah-Al-Azim?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Abdullah-Al-Azim?color=green&logo=github">
   </a>
-  <a href="https://github.com/Rasujon3?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Rasujon3?color=green&logo=github">
-  </a>
-  <a href="https://github.com/Rasujon3">
-    <img src="https://komarev.com/ghpvc/?username=Rasujon3" alt="visitors" />
+  <a href="https://github.com/Abdullah-Al-Azim">
+    <img src="https://komarev.com/ghpvc/?username=Abdullah-Al-Azim" alt="visitors" />
   </a>
 </p>
 
 <h3 align="center">¯\_(ツ)_/¯
 
-Programmer | Learner
+SQA Engineer | Learner
 
 </h3>
 
-- 🔭 I’m currently working on **SQA & MERN Stack & React Native**
+- 🔭 I’m currently working on **Manual & Automation SQA**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Manual & Automation SQA**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **ruhul.amin.sujon.1997@gmail.com**
+- 📫 How to reach me **azeemzeehan3@gmail.com**
 
 - ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
 
 ### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-al-azim-81a882224/)
 
-[<img align="left" target="_blank" alt="https://ruhul-amin-sujon-portfolio.netlify.app/" width="22px" src="https://www.pngall.com/wp-content/uploads/4/World-Wide-Web.png" />][website]
-[<img align="left" alt="Ruhul Amin Sujon | Facebook" width="22px" src="https://w7.pngwing.com/pngs/991/568/png-transparent-facebook-logo-computer-icons-facebook-logo-facebook.png" />][facebook]
-<!-- [<img align="left" alt="Ruhul Amin Sujon | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-[<img align="left" alt="Ruhul Amin Sujon | Twitter" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2LOdq1IcZqSNWavdU8Vjque5aJ6x8HZzEMg&usqp=CAU" />][twitter]
-<!-- [<img align="left" alt="Ruhul Amin Sujon | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124019.png" />][telegram] -->
-[<img align="left" alt="Ruhul Amin Sujon | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124011.png" />][linkedin]
-<!-- [<img align="left" alt="Ruhul Amin Sujon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 <br />
 
 ### 🛠 &nbsp;Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
-![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwindcss)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JAVA](https://img.shields.io/badge/-java-05122A?style=flat&logo=java)&nbsp;
-![Android](https://img.shields.io/badge/-Andriod-05122A?style=flat&logo=android)&nbsp;
-![DART](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <!-- <br />
 ### Profile Visitors 
 [![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Rasujon3.visitor-badge&left_color=blue&right_color=yellow)]
 <br /> -->
 
-## :chart_with_upwards_trend: Current Stats
+## chart_with_upwards_trend: Current Stats
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rasujon3&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Al-Azim&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
 </p>
-
-[![Sujon's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rasujon3&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/Rasujon3/github-readme-activity-graph)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -87,28 +73,18 @@ Programmer | Learner
   </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"                alt="cplusplus" width="40" height="40"/> 
   </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rasujon3&show_icons=true&locale=en&layout=compact" alt="Ruhul Amin Sujon" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdullah-Al-Azim&show_icons=true&locale=en&layout=compact" alt="Abdullah Al Azim" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Rasujon3&show_icons=true&locale=en" alt="Ruhul Amin Sujon" /></p>
-
-[website]: https://ruhul-amin-sujon-portfolio.netlify.app/
-[facebook]: https://facebook.com/rasujon.14
-[twitter]: https://twitter.com/sujon_ra
-[linkedin]: https://www.linkedin.com/in/ruhul-amin-sujon-77654a240/
-<!-- [youtube]: https://youtube.com/TechHelpBangladesh -->
-<!-- [instagram]: https://instagram.com/mahbubdev/ -->
-<!-- [telegram]: https://t.me/TechHelpBangladesh -->
+<br /><br /><br /><br /><br /><br /><br />
+<h2 id="-github-trophies">🏆 GitHub Trophies</h2>
+<p><img src="https://github-profile-trophy.vercel.app/?username=Abdullah-Al-Azim&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt=""></p>
