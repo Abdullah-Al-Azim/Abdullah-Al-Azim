@@ -1,10 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Abdullah Al Azim</h1>
 
 <p align="center">
-  <a href="https://leetcode.com/Ruhul_Amin_Sujon/">
-    <img src="[https://cp-logo.vercel.app/leetcode/Ruhul_Amin_Sujon](https://ibb.co/WP977Lb)" alt="Leet code rating" />
-  </a>
-  <a href="https://stackoverflow.com/users/16730744/ruhul-amin-sujon">
+  <a href="[https://stackoverflow.com/users/16730744/ruhul-amin-sujon](https://stackoverflow.com/users/14932795/abdullah-al-azim)">
     <img alt="Stack Overflow Reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
   </a>
   <a href="https://github.com/Rasujon3?tab=followers">
