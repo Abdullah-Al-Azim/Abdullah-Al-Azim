@@ -1,4 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Abdullah Al Azim</h1>
+<h3 align="left"></h3>
+I'm a passionate SQA Engineer from Bangladesh with over 1 years of experience and I'm constantly learning new technologies to stay up-to-date with the latest trends.
 
 <p align="center">
   <a href="https://github.com/Abdullah-Al-Azim?tab=followers">
