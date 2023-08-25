@@ -2,6 +2,9 @@
 <h3 align="left"></h3>
 I'm a passionate SQA Engineer from Bangladesh with over 1 years of experience and I'm constantly learning new technologies to stay up-to-date with the latest trends.
 
+## 👨🏽‍💻 What I'm working on
+Currently, I am working on BJIT(a Bangladesh Japan Information Technology) as a Trainee SQA Engineer.
+
 <p align="center">
   <a href="https://github.com/Abdullah-Al-Azim?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Abdullah-Al-Azim?color=green&logo=github">
@@ -10,10 +13,6 @@ I'm a passionate SQA Engineer from Bangladesh with over 1 years of experience an
     <img src="https://komarev.com/ghpvc/?username=Abdullah-Al-Azim" alt="visitors" />
   </a>
 </p>
-
-<h3 align="center">¯\_(ツ)_/¯
-
-SQA Engineer | Learner
 
 </h3>
 
@@ -28,6 +27,30 @@ SQA Engineer | Learner
 - 📫 How to reach me **azeemzeehan3@gmail.com**
 
 - ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
+
+## 💬 Ask me about
+- <b>Topics:</b> SDLC, Software Development Methodologies, Scrum, Software Development Process, Git/GitHub/Gerrit, Project Management & Strategy
+- <b>Technologies:</b> HTML, CSS, Bootstrap, Tailwind CSS, Javascript, MySQL, Figma, Adobe XD, Balsamiq, Java, Selenium, Cypress, Postman, JMeter
+
+## 💻 Work Experience
+- **ITNA Global, [QA Engineer]**, **[Jan 22 to Dec 22]**<br />
+Test Strategy | 
+Test Plan | 
+Test Case Writing/Design | 
+Bug Reports | 
+Git/Github |
+Redmine |
+Jira |
+- **BJIT, [Trainee SQA Engineer], [Aug 23 to Present]**<br />
+Test Planning |
+Writing and Reviewing Test Cases |
+Bug Reporting Using Jira |
+Execute Test Cases on the Web |
+Creating Bug Report |
+Perform Regression Testing |
+
+## 🎓 Education
+- Bangladesh University of Business and Technology (BUBT) | CSE |  March 22
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-al-azim-81a882224/)
